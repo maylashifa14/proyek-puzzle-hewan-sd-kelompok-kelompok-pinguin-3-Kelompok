@@ -1,13 +1,53 @@
-# proyek-puzzle-hewan-sd-kelompok-pinguin/kelompok-3
-Judul Proyek : Puzzle Hewan pinguin untuk Kelas 3
-Nama Anggota Kelompok
-Maylashifa Putri Sulaiman
-Fery Qonia 
-Fani Ziaul Haqq
-Shifana Amalia Almasa
-Risda Khairani
+# 🧩 Proyek Puzzle Jigsaw: Hewan Pinguin 🐧  
+_Kelas 3 Sekolah Dasar_
 
-Target Siswa : Siswa Kelas 3
-Tujuan Pembelajaran (misal: Mengenal nama dan visual hewan ternak, melatih koordinasi mata-tangan)
-Link Menuju Puzzle (buat daftar link jika lebih dari satu):
-[Puzzle Pinguin ](https://puzzel.org/id/jigsaw/play?p=-ONrgIh8NHSOj4PknNFu)
+![Pinguin Puzzle Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Penguin_Icon.svg/1024px-Penguin_Icon.svg.png)
+
+---
+
+## 🎯 Tujuan Pembelajaran
+
+1. Mengenal karakteristik hewan pinguin secara visual dan tekstual.
+2. Melatih kemampuan motorik halus melalui aktivitas menyusun puzzle.
+3. Mengembangkan konsentrasi dan kesabaran siswa dalam menyelesaikan tugas.
+4. Menumbuhkan rasa ingin tahu terhadap kehidupan hewan di lingkungan kutub.
+
+---
+
+## 🧠 Deskripsi Singkat
+
+Puzzle jigsaw ini dirancang sebagai media pembelajaran interaktif untuk siswa kelas 3 SD. Dengan menyusun potongan puzzle menjadi gambar utuh, siswa akan lebih mudah mengenal hewan pinguin dan habitatnya dengan cara yang menyenangkan.
+
+---
+
+## 🔗 Link Puzzle
+
+ [🔗 Mainkan di sini](https://puzzel.org/id/jigsaw/play?p=-ONrgIh8NHSOj4PknNFu) |
+
+---
+
+## 🎨 Cara Bermain
+
+1. Klik salah satu link puzzle di atas.
+2. Seret potongan-potongan puzzle untuk menyusunnya menjadi gambar pinguin utuh.
+3. Bisa dimainkan lewat komputer, tablet, atau handphone.
+
+---
+
+## 📌 Catatan Guru
+
+- Bisa dijadikan bagian dari pembelajaran tematik (tema: "Makhluk Hidup dan Lingkungannya").
+- Dapat digunakan sebagai kegiatan ice-breaking atau penutup pembelajaran.
+
+---
+
+## 💡 Tips
+
+- Gunakan proyektor di kelas untuk bermain bersama-sama.
+- Tantang siswa untuk menyelesaikan dalam waktu tertentu sebagai game edukatif!
+
+---
+
+> Dibuat oleh: **[Nama Anda / Nama Sekolah]**  
+> Untuk pembelajaran yang menyenangkan dan bermakna! 🌟
+
